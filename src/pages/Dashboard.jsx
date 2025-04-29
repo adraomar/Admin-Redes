@@ -8,13 +8,13 @@ const Dashboard = () => {
                 <h4 className="text-center">Mi Panel</h4>
                 <ul className="nav flex-column mt-4">
                     <li className="nav-item mb-2">
-                        <a className="nav-link text-white" href="#">Inicio</a>
+                        <a className="nav-link text-white" href="#">Sitios</a>
                     </li>
                     <li className="nav-item mb-2">
-                        <a className="nav-link text-white" href="#">Reportes</a>
+                        <a className="nav-link text-white" href="#">Equipos</a>
                     </li>
                     <li className="nav-item mb-2">
-                        <a className="nav-link text-white" href="#">Configuración</a>
+                        <a className="nav-link text-white" href="#">Usuarios</a>
                     </li>
                 </ul>
             </div>
@@ -33,8 +33,8 @@ const Dashboard = () => {
                         <div className="col-md-4 mb-3">
                             <div className="card shadow-sm">
                                 <div className="card-body">
-                                    <h5 className="card-title">Usuarios</h5>
-                                    <p className="card-text">125 registrados</p>
+                                    <h5 className="card-title">Sitios creados</h5>
+                                    <p className="card-text">3 sitios creados</p>
                                 </div>
                             </div>
                         </div>
@@ -43,8 +43,8 @@ const Dashboard = () => {
                         <div className="col-md-4 mb-3">
                             <div className="card shadow-sm">
                                 <div className="card-body">
-                                    <h5 className="card-title">Ventas</h5>
-                                    <p className="card-text">$12,300 este mes</p>
+                                    <h5 className="card-title">Equipos registrados</h5>
+                                    <p className="card-text">10 equipos registrados</p>
                                 </div>
                             </div>
                         </div>
@@ -53,8 +53,8 @@ const Dashboard = () => {
                         <div className="col-md-4 mb-3">
                             <div className="card shadow-sm">
                                 <div className="card-body">
-                                    <h5 className="card-title">Soporte</h5>
-                                    <p className="card-text">5 tickets abiertos</p>
+                                    <h5 className="card-title">Usuarios creados</h5>
+                                    <p className="card-text">2 usuarios creados</p>
                                 </div>
                             </div>
                         </div>
